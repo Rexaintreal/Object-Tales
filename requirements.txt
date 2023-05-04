@@ -1,0 +1,6 @@
+customtkinter==5.1.2
+gpt_2_simple==0.8.1
+numpy==1.23.5
+opencv_python==4.7.0.72
+Pillow==9.4.0
+Pillow==9.5.0
