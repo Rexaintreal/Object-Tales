@@ -73,7 +73,7 @@ Overall, Object Tales provides a fun and creative way to explore the stories hid
 ![Working](https://github.com/Rexaintreal/Object-Tales/blob/main/Images/Working.png)
 ### Author
 
-MyProgram was created by [Saurabh Tiwari](https://github.com/Rexaintreal). 
+Object Tales was created by [Saurabh Tiwari](https://github.com/Rexaintreal). 
 
 - [Email](mailto:saurabhtiwari7986@gmail.com)
 
