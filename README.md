@@ -21,8 +21,8 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [How it Works](#How it Works)
-- [Author](#Author)
+- [How it Works](#how-it-works)
+- [Author](#author)
 
 ---
 
