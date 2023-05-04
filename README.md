@@ -85,4 +85,4 @@ MyProgram was created by [Saurabh Tiwari](https://github.com/Rexaintreal).
 - [Python Screenrecorder](https://github.com/Rexaintreal/PythonScreenrecorder) - A Python Screen Recorder
 - [Typing Speed Tester](https://github.com/Rexaintreal/TypingSpeedTester) - A Python Typing Speed Tester
 - [Movie Recommender](https://github.com/Rexaintreal/Movie-Recommender) - A Python Movie Recommender
-- [Password Generator(https://github.com/Rexaintreal/Password-Generator) - A Python Password Generator
+- [Password Generator](https://github.com/Rexaintreal/Password-Generator) - A Python Password Generator
